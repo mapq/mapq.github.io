@@ -1,0 +1,15 @@
+<div class="show-proceedings">
+    <a name="proceedings"></a><h4>Proceedings</h4>
+    <ol>
+	{% for pub in site.data.proceedings %}
+        <li>{{pub.authors}}, ({{pub.year}}).
+        	{% if pub.url %}
+        	{{pub.title}},
+        	{% else %}
+        	<a href="{{pub.url}}">{{pub.title}}</a>,
+        	{% endif %}
+        	<em>{{pub.proceeding}}</em>{% if pub.pages %}, {{pub.pages}}{% endif %}.</li>
+	{% endfor %}
+    </ol>
+</div> <!-- proceedings -->
+

@@ -1,0 +1,96 @@
+/*
+Courses.css
+*/
+
+body {
+	font-family:Georgia, "Times New Roman", Times, serif; 
+	background-color: #ddd; }	/* gray background */
+
+#content_width, #full_width, #full_width_text 
+{ font-size:40px; font-family:Georgia, "Times New Roman", Times, serif;  }
+
+a { text-decoration:none; color: maroon; }
+a:hover {text-decoration:underline; color: blue;}
+a img { border:none; display:inline; margin-right:10px; }
+/* float:left; removed from above to solve a layout order conflict on lectures */
+
+div {overflow: visible; }
+
+.hidden { display:none ; }
+
+.banner { 
+	background-image:url("../images/unit_header_fluid_bg.jpg");
+}
+
+.banner h1 {
+	display: inline;
+	color: white;
+	font-size:32px;
+	position:relative;
+	top:-35px;
+	left: 10px;
+}
+.menu {
+	background-image:url("../images/main_nav_vnav.jpg");
+	background-repeat:repeat-y;
+}
+.menu a  { text-decoration:none; color: white; }
+.menu a:hover {text-decoration:underline; color: maroon;}
+.menu ul { list-style-image: url("../images/list_bullet_fw.gif"); }
+.menu ul ul { padding-left: 15px; list-style-image: url("../images/list_bullet.gif"); }
+.menu li { line-height:22px; }
+
+.content {
+	background-color:white;
+	padding-left:10px; 
+}
+
+.calendar {
+	background-color: #DBD8BC;
+}
+.calendar .showing {background-color: #FF0; color: maroon;}
+.calendar .today {background-color: orange; color: white;}
+.calendar .lecture {background-color: maroon; color: white;}
+.calendar .todays-lecture {background-color: #FF6700; color: white;}
+.calendar .holiday {background-color: blue; color: white;}
+
+.calendar h4 { text-align: center; text-decoration:underline; }
+
+/*.footer { 
+	background-image:url("../images/unit_header_fluid_bg.jpg");
+	color: white; 
+}
+*/
+
+div p { padding:4px; }	
+
+#announcements table {border: 1px; border-collapse:collapse;}
+#announcements td {padding-top: 2px; padding-left: 5px; padding-right: 5px;} 
+#announcements tr {vertical-align:top;}
+#announcements tr:nth-child(even) {background: #FFF;}
+#announcements tr:nth-child(odd) {background: #CCC;}
+#announcements th {background-color:#D3CFAC;text-align: left;}
+
+#assignments table {border-collapse:collapse;}
+#assignments th {background-color:#D3CFAC;text-align: left;}
+#assignments td {padding-top: 2px; padding-left: 5px; padding-right: 5px;} 
+#assignments tr {vertical-align:top;}
+#assignments tr:nth-child(even) {background: #FFF;}
+#assignments tr:nth-child(odd) {background: #CCC;}
+#assignments tr.todays-assignments {background-color:#D3CFAC;}
+
+.instructions {
+	color:gray;
+	font-size: 10pt;
+	margin-top: 0px;
+}
+
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+.sidebar-nav {
+  padding: 9px 0;
+}
+
+/*end*/

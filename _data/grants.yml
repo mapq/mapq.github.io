@@ -1,0 +1,360 @@
+- title: "Transforming Grading Practices in the Computing Education Community"
+  date: "Jul 01, 2023 - Jun 30, 2028"
+  pi: "Manuel A. Pérez-Quiñones"
+  copi: "Audrey Rorrer"
+  amount: $212,891
+  area: cseducation
+  organization: UNCC
+
+- title: "RPP HS Strand (Small): Preparing High School Teachers to Broaden Participation by Teaching Programming Online"
+  date: "Nov 1, 2020 - Oct 31, 2023"
+  pi: "Manuel A. Pérez-Quiñones"
+  copi: "Florence Martin, David Pugalee"
+  amount: $299,848
+  area: cseducation
+  organization: UNCC
+
+- title: "Collaborative Research: BPC-AE: STARS: Catalyzing Action-Oriented Academic Communities for Broadening Participation in Computing"
+  date: "Oct 01, 2021"
+  pi: "Audrey Rorrer"
+  copi: "Manuel A. Pérez-Quiñones"
+  amount: $173,277
+  area: cseducation
+  organization: UNCC
+
+- title: "Collaborative Research: Promoting a Growth Mindset Using Automated Feedback"
+  pi: "Manuel A. Pérez-Quiñones"
+  date: "Sept 01, 2016-Aug 30, 2019"
+  amount: $150,000
+  area: cseducation
+  organization: UNCC
+
+- title: "CodePractice: Developing Coding Skills Using Social and Adaptive Drill-and-Practice Exercises"
+  agency: "DUE: Division of Undergraduate Education (#1245589)"
+  pi: "Stephen Edwards"
+  copi: "Manuel A. Pérez-Quiñones"
+  date: "July 1, 2013-June 30, 2016"
+  amount: $199,737
+  area: cseducation
+  organization: Virginia Tech
+
+- title: "Participation on the Town Square in the Era of Web 2.0"
+  agency: "SES: Division of Social and Economic Sciences (#1111239)"
+  pi: "Andrea Kavanaugh"
+  copi: "Manuel A. Pérez-Quiñones, Naren Ramakrishnan, John Tedesco"
+  date: "September 15, 2011-August 31, 2014"
+  amount: $749,999
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "Sustainable Diversity in the Computing Research Pipeline"
+  agency: "CNS: Division of Computer and Network Systems (#1246649)"
+  pi: "Tracy Camp"
+  copi: "Manuel A. Pérez-Quiñones, Andrew Bernat"
+  date: "October 1, 2012-September 30, 2017"
+  amount: $5,569,431
+  area: students
+  organization: CRA
+
+
+- title: "Planning Grant: Integrating Computational Thinking Into Middle School Curriculum"
+  agency: "CNS: Division of Computer and Network Systems (#1132227)"
+  pi: "Deborah Tatar"
+  copi: "Dennis Kafura, Manuel A. Pérez-Quiñones, Steve Harrison, Chris Corallo"
+  date: "October 1, 2011-January 31, 2015"
+  amount: $199,998
+  area: cseducation
+  organization: Virginia Tech
+
+
+- title: "CS Principles Pilot Site Round 2"
+  agency: "The College Board"
+  pi: "Dwight Barnette"
+  copi: "Manuel A. Pérez-Quiñones, collaboration with Rebecca Dovi, Patrick Henry High School"
+  amount: $15,000
+  area: cseducation
+  organization: Virginia Tech
+
+
+- title: "Computer-Human Interaction Workshop: A Discipline Specific Mentoring Proposal"
+  agency: "CRA-W, Workshop co-located with CHI 2012, Austin, TX"
+  pi: "Ron Metoyer"
+  copi: "Manuel A. Pérez-Quiñones"
+  date: "  amount: $24,000"
+  area: students
+  organization: CRA
+
+
+- title: "WORKSHOP: Student Travel Support for the CHI Mentoring 2012 Workshop"
+  agency: "IIS: Division of Information & Intelligent Systems (#1237485)"
+  pi: "Manuel A. Pérez-Quiñones"
+  copi: "Ron Metoyer"
+  date: "April 1, 2012-March 31, 2014"
+  amount: $13,750
+  area: students
+  organization: Virginia Tech
+
+
+- title: "High School Teachers Workshop 2011"
+  agency: "CS4HS Grant, Google Inc."
+  pi: "Manuel A. Pérez-Quiñones"
+  amount: $15,000
+  area: cseducation
+  organization: Virginia Tech
+
+
+- title: "BPC Pipeline: Five Year Extension"
+  agency: "CNS: Division of Computer and Network Systems (#1042403)"
+  pi: "Kathleen Fisher"
+  copi: "Andrew Bernat, Manuel A. Pérez-Quiñones"
+  date: "February 1, 2011-January 31, 2014"
+  amount: $750,720
+  area: students
+  organization: CRA
+
+
+- title: "NIOSH/CDC Virginia Tech OSH Research Cooperative Agreement"
+  agency: "NIOSH"
+  pi: "Brian Kleiner"
+  copi: "Manuel A. Pérez-Quiñones, and others"
+  date: "09/01/09 - 08/31/14"
+  amount: $6,472,495
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "WORKSHOP: Student Travel Support for the CHI Mentoring Workshop"
+  agency: "IIS: Division of Information & Intelligent Systems (#1020637)"
+  pi: "Manuel A. Pérez-Quiñones"
+  copi: "Ron Metoyer"
+  date: "March 1, 2010-February 28, 2011"
+  amount: $11,374
+  area: students
+  organization: CRA
+
+
+- title: "Computer-Human Interaction Workshop: A Discipline Specific Mentoring Proposal"
+  agency: "CRA-W"
+  pi: "Ron Metoyer"
+  copi: "Manuel A. Pérez-Quiñones"
+  date: "  amount: $30,000"
+  area: students
+  organization: CRA
+
+
+- title: "A Proposal for Funding Student Scholarships to The Richard Tapia Celebration of Diversity in Computing Conference 2009"
+  agency: "CNS: Division of Computer and Network Systems (#0926083)"
+  pi: "Manuel Pérez-Quiñones"
+  copi: "Ronald Metoyer"
+  date: "April 15, 2009-September 30, 2010"
+  amount: $73,680
+  area: students
+  organization: CRA
+
+
+- title: "BPC-A: Widening the Research Pipeline, REU Supplement to CRA-W/CDC BPC Alliance"
+  agency: "NSF"
+  pi: "Lori A. Clarke"
+  copi: "Andrew Bernat, Carla S. Ellis, Margaret Martonosi, Pamela J. Williams (Senior Personnel: M. A. Pérez-Quiñones)"
+  date: "2009-2010"
+  amount: $5,000
+  area: students
+  organization: CRA
+
+
+- title: "Ensemble: Enriching Communities and Collections to Support Education in Computing"
+  agency: "DUE: Division of Undergraduate Education (#0840719)"
+  pi: "Edward Fox"
+  copi: "Patrick Fan, Stephen Edwards (Senior Personnel: M. A. Pérez-Quiñones)"
+  date: "September 15, 2008-August 31, 2014"
+  amount: $2,500,000
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "Collaborative Research: CPATH CB: Distributed Expertise in Enhancing Computing Education with Connections to the Arts"
+  agency: "IIS: Division of Information & Intelligent Systems (#0829625)"
+  pi: "M. A. Pérez-Quiñones"
+  copi: "Steve Harrison, Deborah Tatar"
+  date: "September 1, 2008-August 31, 2011"
+  amount: $120,000
+  area: cseducation
+  organization: Virginia Tech
+
+
+- title: "Understanding the Latino College Experience in Virginia. Funded by VT's Faculty Diversity Grant Program"
+  agency: "Virginia Tech"
+  pi: "Carlos Evia"
+  copi: "M. A. Pérez-Quiñones"
+  date: "May 1, 2008-April 30, 2009"
+  amount: $3,000
+  area: students
+  organization: Virginia Tech
+
+
+- title: "Stars Alliance, subcontract to UNC Charlotte BPC Alliance"
+  agency: "NSF"
+  pi: "D.S. McCrickard"
+  copi: "Manuel A. Pérez-Quiñones"
+  date: "Sept 2007-Sept 2008"
+  amount: $22,176
+  area: students
+  organization: Virginia Tech
+
+
+- title: "Workshop: Computing Education Needs Assessment, February 2008 - Washington, DC"
+  agency: "DUE: Division of Undergraduate Education (#0752030)"
+  pi: "L. Cassel"
+  copi: "Manuel A. Pérez-Quiñones"
+  date: "October 1, 2007-September 30, 2009"
+  amount: $50,000
+  area: cseducation
+  organization: Virginia Tech
+
+
+- title: "CPATH CB: Connecting Computing Educators Within and Outside the Traditional Boundaries"
+  agency: "CCF: Division of Computer and Communication Foundations (#0722223)"
+  pi: "L. Cassell"
+  copi: "Manuel A. Pérez-Quiñones, S.R. Harrison"
+  date: "September 1, 2007-August 31, 2009"
+  amount: $80,000
+  area: cseducation
+  organization: Virginia Tech
+
+
+- title: "Educational Support for Testing Graphical User Interfaces"
+  agency: "DUE: Division of Undergraduate Education (CCLI-Phase 1) (#0633594)"
+  pi: "S. H. Edwards"
+  copi: "M. A. Pérez-Quiñones"
+  date: "May 15, 2007-April 30, 2010"
+  amount: $149,899
+  area: cseducation
+  organization: Virginia Tech
+
+
+- title: "Community Resources for Automated Grading"
+  agency: "DUE: Division of Undergraduate Education (CCLI-Phase 2) (#0618663)"
+  pi: "S. H. Edwards"
+  copi: "Manuel A. Pérez-Quiñones, C. Evia"
+  date: "September 1, 2006-August 31, 2010"
+  amount: $499,989
+  area: cseducation
+  organization: Virginia Tech
+
+
+- title: "BPC Supplement: Hispanics in Digital Government: Creating a Pipeline of Hispanic Students Between Virginia Tech and the University of Puerto Rico, Mayaguez"
+  agency: "NSF Broadening Participation in Computing Program, Supplement to Modeling Online Participation in Local Governance grant"
+  pi: "Manuel A. Pérez-Quiñones"
+  copi: "A. Kavanaugh, B. Vélez-Rivera"
+  date: "  amount: $51,980"
+  area: students
+  organization: Virginia Tech
+
+
+- title: "Interfaces for the Embodied Mind"
+  agency: "CNS: Division of Computer and Network Systems (#0551610)"
+  pi: "Francis Quek"
+  copi: "Doug Bowman, Deborah Tatar, Chris North, Woodrow Winchester, Andrea Kavanaugh, Steve Harrison, Yingen Xiong, Joseph Gabbard, Shawn Bohner, Tonya Smith-Jackson, Daniel Dunlap, Roger Ehrich, Edward Fox, Denis Gracanin, Debby Hix, Thomas Martin, Scott McCrickard, Manuel A. Pérez-Quiñones, Bill Carstensen"
+  date: "March 15, 2006-February 29, 2012"
+  amount: $206,938
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "Beyond Human Memory: SenseCam Use in Veterinary College and as Assistive Technology"
+  agency: "Microsoft Research Digital Memories (Memex)"
+  pi: "Manuel A. Pérez-Quiñones"
+  copi: "E.A. Fox"
+  date: "January 1, 2006-December 31, 2006"
+  amount: $49,894
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "Personalization of Content: Bridging the gap between NSDL and its users through the course website"
+  agency: "DUE: Division of Undergraduate Education (#0532825)"
+  pi: "Manuel A. Pérez-Quiñones"
+  copi: "E.A. Fox, P. Fan, L. Cassel"
+  date: "September 1, 2005-August 31, 2009"
+  amount: $450,000
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "Use of a Tablet PC for Peer-Review Activities in CS1 and CS2"
+  agency: "Microsoft Faculty Grants"
+  pi: "Manuel A. Pérez-Quiñones"
+  copi: "Stephen Edwards"
+  date: "August 2005 –July 2006"
+  amount: $53,926
+  area: cseducation
+  organization: Virginia Tech
+
+
+- title: "NSF ITWF: Scholars of the Future: An Implementation Model for Increasing Diversity in Information Technology"
+  agency: "CNS: Division of Computer and Network Systems (#0420485)"
+  pi: "J.E. Gilbert (Auburn)"
+  copi: "Theron Hendrix, Manuel A. Pérez-Quiñones, Lecia Baker"
+  date: "August 1, 2004-July 31, 2009"
+  amount: $754,983
+  area: students
+  organization: Virginia Tech
+
+
+- title: "Modeling Online Participation in Local Governance"
+  agency: "IIS: Division of Information & Intelligent Systems (#0429274)"
+  pi: "Andrea Kavanaugh"
+  copi: "Daniel Dunlap, Philip Isenhour, Manuel A. Pérez-Quiñones"
+  date: "September 1, 2004-February 29, 2008"
+  amount: $550,002
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "NSF EIA-0312668: Web Development by Non-programmers"
+  agency: "CNS: Division of Computer and Network Systems (#0353309)"
+  pi: "M. B. Rosson"
+  copi: "Manuel A. Pérez-Quiñones"
+  date: "September 15, 2003-July 31, 2006"
+  amount: $93,106
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "Research on the Use of VoiceXML Within the Context of the WebSphere Transcoding Publisher"
+  agency: "IBM"
+  pi: "Manuel A. Pérez-Quiñones"
+  date: "January 2002-December 2003"
+  amount: $50,000
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "Computing and Information Technology Interactive Digital Educational Library (CITIDEL)"
+  agency: "DUE: Division of Undergraduate Education (#0121679)"
+  pi: "Fox, E.A"
+  copi: "Lee, JAN, Manuel A. Pérez-Quiñones, Giles, C.L., Cassel, L., Impagliazzo, J., Knox, D."
+  date: "September 15, 2001-May 31, 2005"
+  amount: $835,000
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "CAREER: Dialogue Context in Graphical User Interfaces: Representation, Portability and Uses"
+  agency: "IIS: Division of Information & Intelligent Systems (#0049075)"
+  pi: "Manuel A. Pérez-Quiñones"
+  date: "August 10, 2000-February 29, 2004"
+  amount: $313,798
+  area: hci
+  organization: Virginia Tech
+
+
+- title: "Mobile Computing: Portability of User Interfaces Across Very Different Platforms"
+  agency: "UPRM R&D Center Seed Grant"
+  pi: "Manuel A. Pérez-Quiñones"
+  date: "1997-1998"
+  amount: $5,000
+  area: hci
+  organization: UPRM
+

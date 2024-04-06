@@ -1,0 +1,81 @@
+---
+layout: default
+title: Students
+---  
+    <div class="row">
+      <div class="col-12">
+
+        <h3>Students Supervised</h3>
+        <p>I have worked with many students over my years in academia. As of this update, I have supervised (or co-supervised) 10 Phd students. I have also supervised many MS students and served on many more committees. This page has a list of the students I supervised, with a link to their dissertation/thesis and in some cases, a link to their current employment or website. I have also worked with lots of undergraduate students, their information will be included at a later date.</p>
+
+        <p>Filter by research area:
+          <label for="hci"><input type="checkbox" id="hci" checked onclick="$('.hci').toggle();"> Human-computer interaction (HCI)&nbsp;&nbsp;&nbsp;</label>
+          <label for="cseducation"><input type="checkbox" id="cseducation" checked onclick="$('.cseducation').toggle();"> CS Education&nbsp;&nbsp;&nbsp;</label></p>
+      </div>
+    </div> <!-- row -->
+
+    <div class="row">
+      <div class="col-md-4">
+        <div class="card" >
+          <img src="assets/images/thumbnails/CHI2010-group.jpg" class="card-img-top" alt="At CHI 2010: Manas Tungare, Manuel Perez-Quinones, Ben Hanrahan, Pardha Pyla, Rob Capra, Ricardo Quintana, and Michael Stewart">
+          <div class="card-body">
+            <p class="card-text">At at CHI 2010: Manas Tungare, MPQ, Ben Hanrahan, Pardha Pyla, Rob Capra, Ricardo Quintana, and Michael Stewart</p>
+          </div>  <!-- card-body -->
+        </div>  <!-- card -->
+      </div>
+
+      <div class="col-md-4">
+        <div class="card" >
+          <img src="assets/images/thumbnails/glenda-ashley.jpg" class="card-img-top" alt="Drs. Glenda Scales, Ashley Robinson, and Manuel Perez-Quinones">
+          <div class="card-body">
+            <p class="card-text">At Dr. Ashley Robinson's graduation (center) with her co-advisors, Dr. Glenda Scales (left), and MPQ (right)</p>
+          </div>  <!-- card-body -->
+        </div>  <!-- card -->
+      </div>
+
+      <div class="col-md-4">
+        <div class="card" >
+          <img src="assets/images/thumbnails/female-phd.jpg" class="card-img-top" alt="Drs. Jamika Burge, Cheryl Seals, Tracy Lewis">
+
+          <div class="card-body">
+            <p class="card-text">Drs. Jamika Burge, Cheryl Seals, and Tracy Lewis</p>
+          </div>  <!-- card-body -->
+        </div>  <!-- card -->
+      </div>
+    </div> <!-- row -->
+
+    <div class="row">
+      <div class="col-md-12">
+      <h4>Phd Dissertations Supervised</h4>
+        <p>As of this writing, all of these dissertations were from the Department of Computer Science, Virginia Tech. For all of them I have included a link to their dissertation, in case you need some bedtime reading. Where possible, I have included a link to their current website and additional info.</p>
+      <ol>
+
+        {% for student in site.data.phdstudents %}
+          <li class="{{student.area}}">{{student.name}}, <a href="{{student.etd}}"><i>{{student.title}}</i></a>. {{student.date}}. {{student.department}}.
+            {% if student.coadvisor %}Co-Advisor: {{student.coadvisor}}.{% endif %}
+            {% if student.employment %}Employer: {{student.employment}}.{% endif %}
+            {% if student.acm %}[<a href="{{student.acm}}">ACM Pubs Page</a>]{% endif %}
+            {% if student.google %}[<a href="{{student.google}}">Google Scholar</a>]{% endif %}
+            {% if student.note %}[{{student.note}}]{% endif %}
+
+          </li>
+        {% endfor %}
+      </ol>
+
+
+      <h4>MS Thesis Supervised</h4>
+
+      <ol>
+        {% for student in site.data.msstudents %}
+          <li class="{{student.area}}">{{student.name}},
+            {% if student.title %}
+              {% if student.etd %}<a href="{{student.etd}}"><i>{{student.title}}</i></a>.
+              {% else %}<i>{{student.title}}</i>.
+              {% endif %}
+            {% endif %} {{student.date}}. {{student.department}}.
+            {% if student.coadvisor %}Co-Advisor {{student.coadvisor}}.{% endif %}
+            {% if student.employment %}Employer: {{student.employment}}{% endif %}</li>
+        {% endfor %}
+      </ol>
+    </div> <!-- row -->
+

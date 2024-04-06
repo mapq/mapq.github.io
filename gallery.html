@@ -1,0 +1,22 @@
+---
+layout: default
+title: Gallery
+---  
+<h2>Image Gallery</h2>
+<p>Click on the images to enlarge them.</p>
+<div class="row display-flex">
+
+  {% for item in site.data.gallery %}
+  <div class="col-12 col-md-3 col-sm-4">
+    <div class="img-thumbnail">
+      <a href="assets/images/{{item.img}}" target="_blank">
+        <img src="assets/images/thumbnails/{{item.img}}" alt="{{item.name}}" style="width:100%">
+        <div class="caption">
+          <p><em>{{item.name}}</em>: {{item.caption}}</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+
+</div>

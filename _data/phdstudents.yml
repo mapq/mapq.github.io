@@ -1,0 +1,94 @@
+- name: Syeda Fatema Mazumder
+  title: Investigating Novice Programmers’ Mental Models
+  date: 2024-02-28
+  department: "Software and Information Systems, UNCC"
+  area: [cseducation]
+
+- name: Yao Wang
+  title: "Exploring the Role of Prospective Memory in Location-Based Reminders"
+  date: 2017-05-03
+  etd: http://hdl.handle.net/10919/77583
+  employment: MobileIron
+  department: "Department of Computer Science, Virginia Tech"
+  area: [hci]
+
+- name: Blake Sawyer
+  title: "The Physical-Social Context in Information Refinding"
+  date: 2015-05-05
+  etd: http://hdl.handle.net/10919/70919
+  department: "Department of Computer Science, Virginia Tech"
+  area: [hci]
+
+- name: Ben Hanrahan
+  title: "Getting Lost in Email: How and Why Users Spend More Time in Email than Intended"
+  date: 2014-12-04
+  etd: http://hdl.handle.net/10919/51204
+  employment: "<a href=\"https://banrahan.ist.psu.edu\">Assistant Professor</a>, College of Information Sciences and Technology, Penn State"
+  department: "Department of Computer Science, Virginia Tech"
+  acm: "https://dl.acm.org/author_page.cfm?id=81481650520"
+  google: "https://scholar.google.com/citations?user=Tp5CvKgAAAAJ&hl=en&oi=ao"
+  area: [hci]
+
+- name: Ashley Robinson
+  title: "The Attitudes of African American Middle School Girls Toward Computer Science: Influences of Home, School, and Technology Use"
+  date: 2015-05-13
+  coadvisor: "Dr. Glenda Scales"
+  etd: http://hdl.handle.net/10919/52277
+  department: "Department of Computer Science, Virginia Tech"
+  employment: Intel, Arizona
+  area: [hci]
+
+- name: Scott Alexander Turner
+  title: "Peer Review in CS2: the Effects on Attitudes, Engagement, and Conceptual Learning"
+  date: 2009-08-13
+  etd: http://hdl.handle.net/10919/28813
+  department: "Department of Computer Science, Virginia Tech"
+  employment: "<a href=\"https://www.uwstout.edu/directory/turners\">Assistant Professor</a>, Department of Mathematics, Statistics &amp; Computer Science, University of Wisconsin, Stout"
+  acm: https://dl.acm.org/author_page.cfm?id=81331505549
+  area: [cseducation]
+
+- name: Manas Tungare
+  title: "Mental Workload in Personal Information Management: Understanding PIM Practices Across Multiple Devices"
+  date: 2009-03-25
+  etd: http://hdl.handle.net/10919/26878
+  department: "Department of Computer Science, Virginia Tech"
+  employment: "<a href=\"https://manas.tungare.name\">Engineering Leader, Search Platforms at Google</a>"
+  area: [hci]
+
+- name: Robert G. Capra
+  title: "An Investigation of Finding and Refinding Information on the Web"
+  date: 2006-02-16
+  etd: http://hdl.handle.net/10919/26342
+  department: "Department of Computer Science, Virginia Tech"
+  employment: "<a href=\"https://ils.unc.edu/~rcapra/\">Associate Professor</a> at School of Information and Library Science, University of North Carolina at Chapel Hill"
+  acm: "https://dl.acm.org/author_page.cfm?id=81100419460"
+  google: "https://scholar.google.com/citations?hl=en&user=pDqzl7sAAAAJ"
+  note: NSF CAREER awardee
+  area: [hci]
+
+- name: Jochen Rode
+  title: "Web Application Development by Nonprogrammers: User-Centered Design of an End-User Web Development Tool"
+  date: 2005-07-01
+  coadvisor: "Dr. Mary Beth Rosson"
+  etd: http://hdl.handle.net/10919/28222
+  department: "Department of Computer Science, Virginia Tech"
+  employment: SAP, Germany
+  area: [hci]
+
+- name: Mir Farooq Ali
+  title: "A Transformation-based Approach to Building Multi-Platform User Interfaces Using a Task Model and the User Interface Markup Language"
+  date: 2004-11-16
+  etd: http://hdl.handle.net/10919/27753
+  department: "Department of Computer Science, Virginia Tech"
+  employment: Engineer at Motorola
+  area: [hci]
+
+- name: Tracy L. Lewis
+  title: "Design Readiness:An Exploratory Model of Object-Oriented Design Performance"
+  date: 2004-07-16
+  etd: http://hdl.handle.net/10919/28545
+  coadvisor: "Dr. Mary Beth Rosson"
+  department: "Department of Computer Science, Virginia Tech"
+  employment: "<a href=\"https://ischool.wisc.edu/blog/staff/lewis-williams-tracy/\">Faculty Associate</a>, Computer Science, iSchool at University of Winsconsin, Madison"
+  acm: https://dl.acm.org/author_page.cfm?id=81327489881
+  area: [cseducation]

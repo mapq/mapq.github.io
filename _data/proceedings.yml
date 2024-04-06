@@ -1,0 +1,619 @@
+- authors: "Ben Hanrahan, Manuel A. Pérez-Quiñones"
+  year: 2015
+  url: "http://dx.doi.org/10.1145/2702123.2702351"
+  title: "Lost in Email: Pulling Users Down a Path of Interaction"
+  proceeding: "Proceedings of the SIGCHI conference on Human factors in computing systems"
+  pages: "pp. 3981-3984"
+
+- authors: "William Jones, Robert Capra, Anne Diekema, Jaime Teevan, Manuel A. Pérez-Quiñones, Jesse David Dinneen, Bradley Hemminger"
+  year: 2015
+  url: "http://dx.doi.org/10.1145/2702123.2702523"
+  title: "\"For Telling\" the Present: The Delphi Method for the Practical Management of Personal Information"
+  proceeding: "Proceedings of the SIGCHI conference on Human factors in computing systems"
+  pages: "pp. 3513-3522"
+
+- authors: "Ankit Ahuja, Ben Hanrahan, Manuel A. Pérez-Quiñones"
+  year: 2014
+  url: "http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0004859300140023"
+  title: "Contextinator: Project-Based Management of Personal Information on the Web"
+  proceeding: "WEBIST - 10th International Conference on Web Information Systems and Technologies"
+  pages: "pp. 14-23"
+
+- authors: "Ashley Robinson, Manuel A. Pérez-Quiñones"
+  year: 2014
+  url: "http://doi.acm.org/10.1145/2538862.2538951"
+  title: "Underrepresented Middle School Girls: On the Path to Computer Science Through Paper Prototyping"
+  proceeding: "Proceedings of the 45th ACM Technical Symposium on Computer Science Education"
+  pages: "pp. 97-102"
+
+- authors: "Kui Xu, Danfeng Yao, Manuel A. Pérez-Quiñones, Casey Link, E. Scott Geller"
+  year: 2014
+  url: "https://ieeexplore.ieee.org/document/7014546"
+  title: "Role-Playing Game for Studying User Behaviors in Security: A Case Study on Email Secrecy"
+  proceeding: "Proceedings of the 10th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing"
+
+- authors: "Kafura, Dennis and Gracanin, Denis and Pérez-Quiñones, Manuel A. and DeHart, Tom"
+  year: 2013
+  url: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6113247"
+  title: "An Approach to Community-Oriented Email Privacy"
+  proceeding: "Third IEEE International Conference on Information Privacy, Security, Risk and Trust (PASSAT '2011)"
+  pages: "pp. 966-973"
+
+- authors: "Kavanaugh, Andrea and Ahuja, Ankit and Pérez-Quiñones, Manuel A. and Tedesco, John and Madondo, Kumbirai"
+  year: 2013
+  url: "http://doi.acm.org/10.1145/2479724.2479750"
+  title: "Encouraging civic participation through local news aggregation"
+  proceeding: "dg.o '13: Proceedings of the 14th Annual International Conference on Digital Government Research"
+  pages: "pp. 172-179"
+
+- authors: "Codio, Sherley and Kafura, Dennis and Pérez-Quiñones, Manuel and Gracanin, Denis and Kavanaugh, Andrea"
+  year: 2012
+  url: "http://dx.doi.org/10.1109/SocialInformatics.2012.30"
+  title: "A Case Study of Community Privacy"
+  proceeding: "SOCIALINFORMATICS '12: Proceedings of the 2012 International Conference on Social Informatics"
+  pages: "pp. 265-274"
+
+- authors: "Codio, Sherley and Kafura, Dennis and Pérez-Quiñones, Manuel and Kavanaugh, Andrea and Gracanin, Denis"
+  year: 2012
+  url: "http://dx.doi.org/10.1109/SocialCom-PASSAT.2012.74"
+  title: "Identifying Critical Factors of Community Privacy"
+  proceeding: "SOCIALCOM-PASSAT '12: Proceedings of the 2012 ASE/IEEE International Conference on Social Computing and 2012 ASE/IEEE International Conference on Privacy, Security, Risk and Trust"
+  pages: "pp. 666-675"
+
+- authors: "Kavanaugh, Andrea and Gad, Samah and Neidig, Sloane and Pérez-Quiñones, Manuel A. and Tedesco, John and Ahuja, Ankit and Ramakrishnan, Naren"
+  year: 2012
+  url: "http://doi.acm.org/10.1145/2307729.2307736"
+  title: "(Hyper) Local news aggregation: designing for social affordances"
+  proceeding: "dg.o '12: Proceedings of the 13th Annual International Conference on Digital Government Research"
+  pages: "pp. 30-39"
+
+- authors: "Murthy, Uma and Tzy Li, Lin and Hallerman, Eric and Fox, Edward A. and Pérez-Quiñones, Manuel A. and Delcambre, Lois M. and da S. Torres, Ricardo"
+  year: 2011
+  url: "http://doi.acm.org/10.1145/1998076.1998112"
+  title: "Use of subimages in fish species identification: a qualitative study"
+  proceeding: "JCDL '11: Proceedings of the 11th annual international ACM/IEEE joint conference on Digital libraries"
+  pages: "pp. 185-194"
+
+- authors: "Snyder, Jason and Edwards, Stephen H. and Pérez-Quiñones, Manuel A."
+  year: 2011
+  url: "http://doi.acm.org/10.1145/1953163.1953343"
+  title: "LIFT: taking GUI unit testing to new heights"
+  proceeding: "SIGCSE '11: Proceedings of the 42nd ACM technical symposium on Computer science education"
+  pages: "pp. 643-648"
+
+- authors: "Turner, Scott and Pérez-Quiñones, Manuel A. and Edwards, Stephen and Chase, Joseph"
+  year: 2011
+  url: "http://doi.acm.org/10.1145/1953163.1953268"
+  title: "Student attitudes and motivation for peer review in CS2"
+  proceeding: "SIGCSE '11: Proceedings of the 42nd ACM technical symposium on Computer science education"
+  pages: "pp. 347-352"
+
+- authors: "Chaube, Vineeta and Kavanaugh, Andrea L. and Pérez-Quiñones, Manuel A."
+  year: 2010
+  url: "http://dx.doi.org/10.1109/HICSS.2010.255"
+  title: "Leveraging Social Networks to Embed Trust in Rideshare Programs"
+  proceeding: "HICSS '10: Proceedings of the 2010 43rd Hawaii International Conference on System Sciences"
+  pages: "pp. 1-8"
+
+- authors: "Turner, Scott and Pérez-Quiñones, Manuel A. and Edwards, Stephen and Chase, Joseph"
+  year: 2010
+  url: "http://doi.acm.org/10.1145/1734263.1734379"
+  title: "Peer review in CS2: conceptual learning"
+  proceeding: "SIGCSE '10: Proceedings of the 41st ACM technical symposium on Computer science education"
+  pages: "pp. 331-335"
+
+- authors: "Ahuja, Sameer and Pérez-Quiñones, Manuel A. and Kavanaugh, Andrea"
+  year: 2009
+  url: "http://dl.acm.org/citation.cfm?id=1556233"
+  title: "Local conversations 2.0"
+  proceeding: "dg.o '09: Proceedings of the 10th Annual International Conference on Digital Government Research"
+  pages: "pp. 311-312"
+
+- authors: "Allevato, Anthony and Edwards, Stephen H. and Pérez-Quiñones, Manuel A."
+  year: 2009
+  url: "http://doi.acm.org/10.1145/1508865.1508928"
+  title: "Dereferee: exploring pointer mismanagement in student code"
+  proceeding: "SIGCSE '09: Proceedings of the 40th ACM technical symposium on Computer science education"
+  pages: "pp. 173-177"
+
+- authors: "Edwards, Stephen H. and Snyder, Jason and Pérez-Quiñones, Manuel A. and Allevato, Anthony and Kim, Dongkwan and Tretola, Betsy"
+  year: 2009
+  url: "http://doi.acm.org/10.1145/1584322.1584325"
+  title: "Comparing effective and ineffective behaviors of student programmers"
+  proceeding: "ICER '09: Proceedings of the fifth international workshop on Computing education research workshop"
+  pages: "pp. 3-14"
+
+- authors: "Pyla, Pardha S. and Hartson, H. Rex and Pérez-Quiñones, Manuel A. and Arthur, James D. and Smith-Jackson, Tonya L. and Hix, Deborah"
+  year: 2009
+  url: "http://dx.doi.org/10.1007/978-3-642-02806-9_34"
+  title: "\"How Do I Evaluate THAT?\" Experiences from a Systems-Level Evaluation Effort"
+  proceeding: "HCD 09: Proceedings of the 1st International Conference on Human Centered Design"
+  pages: "pp. 292-301"
+
+- authors: "Pyla, Pardha S. and Tungare, Manas and Holman, Jerome and Pérez-Quiñones, Manuel A."
+  year: 2009
+  url: "http://dx.doi.org/10.1007/978-3-642-02580-8_9"
+  title: "Continuous User Interfaces for Seamless Task Migration"
+  proceeding: "Proceedings of the 13th International Conference on Human-Computer Interaction. Part III"
+  pages: "pp. 77-85"
+
+- authors: "Ahuja, Sameer and Pérez-Quiñones, Manuel A. and Kavanaugh, Andrea and Tauro, Candida and Kim, B. J"
+  year: 2008
+  url: "http://www.publicsphereproject.org/events/diac08/proceedings/20.Colloki.Ahuja_et_al.pdf"
+  title: "Colloki: Rethinking local conversations on the web"
+  proceeding: "Directions and Implications of Advanced Computing (DIAC) Conference"
+  pages: "pp. 123-129"
+
+- authors: "Allevato, Anthony and Thornton, Matthew and Edwards, Stephen H. and Pérez-Quiñones, Manuel A."
+  year: 2008
+  url: "http://www.educationaldatamining.org/EDM2008/uploads/proc/17_Allevato_23.pdf"
+  title: "Mining data from an automated grading and testing system by adding rich reporting capabilities"
+  proceeding: "EMD '08: Proceedings of the 1st International Conference on Educational Data Mining"
+  pages: "pp. 167-176"
+
+- authors: "Edwards, Stephen H. and Pérez-Quiñones, Manuel A."
+  year: 2008
+  url: "http://doi.acm.org/10.1145/1384271.1384371"
+  title: "Web-CAT: automatically grading programming assignments"
+  proceeding: "ITiCSE '08: Proceedings of the 13th annual conference on Innovation and technology in computer science education"
+  pages: "pp. 328-328"
+
+- authors: "Pérez-Quiñones, Manuel A. and Tungare, Manas and Pyla, Pardha S. and Harrison, Steve"
+  year: 2008
+  url: "http://dx.doi.org/10.1109/LA-WEB.2008.29"
+  title: "Personal Information Ecosystems: Design Concerns for Net-Enabled Devices"
+  proceeding: "LA-WEB '08: Proceedings of the 2008 Latin American Web Conference"
+  pages: "pp. 3-11"
+
+- authors: "Tauro, Candida and Ahuja, Sameer and Pérez-Quiñones, Manuel A. and Kavanaugh, Andrea and Isenhour, Philip"
+  year: 2008
+  url: "http://dl.acm.org/citation.cfm?id=1367859"
+  title: "Deliberation in the wild: a visualization tool for blog discovery and citizen-to-citizen participation"
+  proceeding: "dg.o '08: Proceedings of the 2008 international conference on Digital government research"
+  pages: "pp. 143-152"
+
+- authors: "Thornton, Matthew and Edwards, Stephen H. and Tan, Roy P. and Pérez-Quiñones, Manuel A."
+  year: 2008
+  url: "http://doi.acm.org/10.1145/1352135.1352316"
+  title: "Supporting student-written tests of GUI programs"
+  proceeding: "SIGCSE '08: Proceedings of the 39th SIGCSE technical symposium on Computer science education"
+  pages: "pp. 537-541"
+
+- authors: "Turner, Scott A. and Quintana-Castillo, Ricardo and Pérez-Quiñones, Manuel A. and Edwards, Stephen H."
+  year: 2008
+  url: "http://doi.acm.org/10.1145/1352135.1352169"
+  title: "Misunderstandings about object-oriented design: experiences using code reviews"
+  proceeding: "SIGCSE '08: Proceedings of the 39th SIGCSE technical symposium on Computer science education"
+  pages: "pp. 97-101"
+
+- authors: "Yu, X. and Tungare, Manas and Fan, W. and Pérez-Quiñones, Manuel A. and Fox, E. A. and Cameron, W. and Cassel, L."
+  year: 2008
+  url: "http://link.springer.com/chapter/10.1007%2F978-3-540-77094-7_43"
+  title: "Using automatic metadata extraction to build a structured syllabus repository"
+  proceeding: "Proceedings of the 10th International Conference on Asian Digital Libraries"
+  pages: "pp. 337-346"
+
+- authors: "Andrea Kavanaugh and H.N Kim and Manuel A. Pérez-Quiñones and Philip Isenhour"
+  year: 2007
+  url: "http://link.springer.com/chapter/10.1007%2F978-1-84628-905-7_21"
+  title: "Models of Government Blogging: Design Trade-offs in civic engagement"
+  proceeding: "Proceedings of the 3rd International Conference on Communities and Technologies"
+  pages: "pp. 419-438"
+
+- authors: "Ben Congleton and John Booker and Laurian C. Vega and Meg Kurdziolek and Lauren Shupp and Manuel A. Pérez-Quiñones"
+  year: 2007
+  url: "http://doi.acm.org/10.1145/1233341.1233424"
+  title: "CA3: collaborative annotation of audio in academia"
+  proceeding: "ACM-SE 45: Proceedings of the 45th annual southeast regional conference"
+  pages: "pp. 461-466"
+
+- authors: "Kim, J.B. and Kavanaugh, Andrea and Pérez-Quiñones, Manuel A."
+  year: 2007
+  url: "http://dl.acm.org/citation.cfm?id=1328099"
+  title: "Toward a model of political participation among young adults: the role of local groups and ICT use"
+  proceeding: "ICEGOV '07: Proceedings of the 1st International Conference on Theory and Practice of Electronic Governance"
+  pages: "pp. 205-212"
+
+- authors: "M. Tungare and P.S. Pyla and M. Sampat and Manuel A. Pérez-Quiñones"
+  year: 2007
+  url: "http://dx.doi.org/10.1109/PORTABLE.2007.52"
+  title: "Syncables: A Framework to Support Seamless Data Mi- gration Across Multiple Platforms"
+  proceeding: "Proceedings of the IEEE International Conference on Portable Information Devices (IEEE Portable)"
+  pages: "pp. 1-5"
+
+- authors: "Manas Tungare and Xiaoyan Yu and William Cameron and GuoFang Teng and Manuel A. Pérez-Quiñones and Lillian Cassel and Weiguo Fan and Edward A. Fox"
+  year: 2007
+  url: "http://doi.acm.org/10.1145/1227310.1227331"
+  title: "Towards a syllabus repository for computer science courses"
+  proceeding: "SIGCSE '07: Proceedings of the 38th SIGCSE technical symposium on Computer science education"
+  pages: "pp. 55-59"
+
+- authors: "Manuel A. Pérez-Quiñones and Andrea Kavanaugh and Uma Murthy and Philip Isenhour and Jaideep Godara and Spencer Lee and Alain Fabian"
+  year: 2007
+  url: "http://dl.acm.org/citation.cfm?id=1248536"
+  title: "VizBlog: a discovery tool for the blogosphere"
+  proceeding: "dg.o '07: Proceedings of the 8th annual international conference on Digital government research"
+  pages: "pp. 314-315"
+
+- authors: "R. Ravichandar and J.D. Arthur and Manuel A. Pérez-Quiñones"
+  year: 2007
+  url: "http://arxiv.org/abs/cs/0703012"
+  title: "Pre-Requirement Specification Traceability: Bridging the Complexity Gap through Capabilities"
+  proceeding: "International Symposium on the Grand Challenges in Traceability (GTC `07)"
+  pages: "pp. 88-97"
+
+- authors: "A. Powell and S.C. Turner and M. Tungare and Manuel A. Pérez-Quiñones and S.H. Edwards"
+  year: 2006
+  url: An Online Peer Review System for Teacher Artifact
+  proceeding: "Proceedings of Society for Information Technology and Teacher Education International Conference, AACE"
+  pages: "pp. 126-133"
+
+- authors: "A. Powell and S.C. Turner and M. Tungare and Manuel A. Pérez-Quiñones and S.H. Edwards"
+  year: 2006
+  url: An Online Peer Review System
+  proceeding: "Eastern Educational Research Association 2006 Annual Conference"
+
+- authors: "Andrea Kavanaugh and Than Than Zin and John M. Carroll and Joseph Schmitz and Manuel A. Pérez-Quiñones and Philip Isenhour"
+  year: 2006
+  url: "http://doi.acm.org/10.1145/1146598.1146628"
+  title: "When opinion leaders blog: new forms of citizen interaction"
+  proceeding: "dg.o '06: Proceedings of the 2006 international conference on Digital government research"
+  pages: "pp. 79-88"
+
+- authors: "Ben Keller and Manuel A. Pérez-Quiñones and Ravikiran Vatrapu"
+  year: 2006
+  url: "http://www.ineer.org/Events/ICEE2006/papers/3481.pdf"
+  title: "Cultural Issues and Opportunities in Computing Education"
+  proceeding: "Proceedings of the 9th International Conference on Engineering Education (ICEE)"
+  pages: "R1E14-R1E19"
+
+- authors: "Brandon Berry and Laurian Hobby and D. Scott McCrickard and Chris North and Manuel A. Pérez-Quiñones"
+  year: 2006
+  title: "Case for HCI: Exploring Benefits of Visualization for Case Studies"
+  proceeding: "Proceedings of the World Conference on Educational Multimedia/Hypermedia and Educational Telecommunications (ED-MEDIA '06)"
+  pages: "pp. 485-492"
+
+- authors: "Chandresh Chhatpar and Manuel A. Pérez-Quiñones"
+  year: 2006
+  url: "http://doi.acm.org/10.1145/1185448.1185507"
+  title: "Variability of user interaction with multi-platform news feeds"
+  proceeding: "ACM-SE 44: Proceedings of the 44th annual Southeast regional conference"
+  pages: "pp. 260-264"
+
+- authors: "K. Kim and S.C. Turner and Manuel A. Pérez-Quiñones and S.H. Edwards"
+  year: 2006
+  title: "Note Taking and the Tablet PC"
+  proceeding: "Workshop on Impact of Pen-based Technology on Education, WIPTE 2006"
+
+- authors: "M. Tungare and X, Yu and W. Cameron and G. Teng and Manuel A. Pérez-Quiñones and E. Fox and W. Fan and L. Cassel"
+  year: 2006
+  title: "Towards a Standardized Representation of Syllabi to Facilitate Sharing and Personalization of Digital Library Content"
+  proceeding: "Proceedings of the 4th International Workshop on Applications of Semantic Web Technologies for E-Learning (SW-EL)"
+
+- authors: "Manas Tungare and Ingrid Burbey and Manuel A. Pérez-Quiñones"
+  year: 2006
+  url: "http://doi.acm.org/10.1145/1185448.1185557"
+  title: "Evaluation of a location-linked notes system"
+  proceeding: "ACM-SE 44: Proceedings of the 44th annual Southeast regional conference"
+  pages: "pp. 494-499"
+
+- authors: "Rahul Agarwal and Stephen H. Edwards and Manuel A. Pérez-Quiñones"
+  year: 2006
+  url: "http://doi.acm.org/10.1145/1121341.1121420"
+  title: "Designing an adaptive learning module to teach software testing"
+  proceeding: "SIGCSE '06: Proceedings of the 37th SIGCSE technical symposium on Computer science education"
+  pages: "pp. 259-263"
+
+- authors: "S. Wahid and S. Bhatia and J. Chong Lee and Manuel A. Pérez-Quiñones and D.S. McCrickard"
+  year: 2006
+  title: "CaBN: Disparate Information Management through Context-Aware Notifications"
+  proceeding: "Proceedings of the 16th International Conference on Computer Theory and Applications (ICCTA 2006)"
+  pages: "pp. 46-49"
+
+- authors: "S.H. Edwards and Manuel A. Pérez-Quiñones and M. Phillips and J. RajKumar"
+  year: 2006
+  url: "http://ineer.org/Events/ICEE2006/papers/3395.pdf"
+  title: "Graphing Performance on Programming Assignments to Improve Student Understanding"
+  proceeding: "Proceedings of the 9th International Conference on Engineering Education. San Juan, PR, July 23 - 28, 2006"
+  pages: "R1H12-R1H17"
+
+- authors: "W. Humphries and J. Gawrilow and S.C. Turner and Manuel A. Pérez-Quiñones and S.H. Edwards"
+  year: 2006
+  title: "Students Visualize Their Grade Performance"
+  proceeding: "Proceedings of the ASEE Annual Conference 2006"
+  pages: "pps. 11"
+
+- authors: "Andrea Kavanaugh and Philip Isenhour and Manuel A. Pérez-Quiñones and Daniel Dunlap"
+  year: 2005
+  url: "http://dl.acm.org/citation.cfm?id=1065243"
+  title: "Modeling online participation in local governance"
+  proceeding: "dg.o2005: Proceedings of the 2005 national conference on Digital government research"
+  pages: "pp. 63-64"
+
+- authors: "Hussein Vastani and Stephen Edwards and Manuel A. Pérez-Quiñones"
+  year: 2005
+  title: "Supporting On-line Direct Markup and Evaluation of Students' Projects"
+  proceeding: "Proceedings of the ASEE Annual Conference 2005"
+  pages: "pp. 13595-13608"
+
+- authors: "J. Chen and M.A. Narayan and Manuel A. Pérez-Quiñones"
+  year: 2005
+  title: "The use of hand-held devices for search tasks in virtual environments"
+  proceeding: "Proceedings of the IEEE VR2005 Workshop on New Directions in 3DUI"
+  pages: "pp. 15-18"
+
+- authors: "Manuel A. Pérez-Quiñones and Olga I. Padilla-Falto and Kathleen McDevitt"
+  year: 2005
+  url: "http://doi.acm.org/10.1145/1095242.1095268"
+  title: "Automatic language translation for user interfaces"
+  proceeding: "TAPIA '05: Proceedings of the 2005 conference on Diversity in computing"
+  pages: "pp. 60-63"
+
+- authors: "Robert Capra and Manuel A. Pérez-Quiñones"
+  year: 2005
+  url: "http://doi.acm.org/10.1145/1111360.1111369"
+  title: "Mobile refinding of web information using a voice interface: an exploratory study"
+  proceeding: "CLIHC '05: Proceedings of the 2005 Latin American conference on Human-computer interaction"
+  pages: "pp. 88-99"
+
+- authors: "Rode, J and Bhardwaj, Y and Manuel A. Pérez-Quiñones and Rosson, MB and Howarth, J"
+  year: 2005
+  url: "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.91.383"
+  title: "As Easy as Click: End-User Web Engineering"
+  proceeding: "The 5th International Conference on Web Engineering (ICWE2005). July 25-29, 2005, Sydney, Australia. Available as Lecture Notes in Computer Science, Volume 3579, Jul 2005, Springer-Verlag GmbH"
+  pages: "pp. 478-488"
+
+- authors: "Tracy L. Lewis and J. D. Chase and Manuel A. Pérez-Quiñones and Mary Beth Rosson"
+  year: 2005
+  url: "http://doi.acm.org/10.1145/1047344.1047483"
+  title: "The effects of individual differences on CS2 course performance across universities"
+  proceeding: "SIGCSE '05: Proceedings of the 36th SIGCSE technical symposium on Computer science education"
+  pages: "pp. 426-430"
+
+- authors: "Jochen Rode and Mary Beth Rosson and Manuel A. Pérez-Quiñones"
+  year: 2004
+  url: "http://dx.doi.org/10.1109/VLHCC.2004.25"
+  title: "End-Users' Mental Models of Concepts Critical to Web Application Development"
+  proceeding: "VLHCC '04: Proceedings of the 2004 IEEE Symposium on Visual Languages - Human Centric Computing (VLHCC'04)"
+  pages: "pp. 215-222"
+
+- authors: "Lillian N. Cassel and Edward A. Fox and JAN Lee and Manuel A. Pérez-Quiñones and Deborah Knox and John Impagliazzo and Lee Giles"
+  year: 2004
+  url: "http://doi.acm.org/10.1145/1007996.1008106"
+  title: "Using CITIDEL to develop and share class plans"
+  proceeding: "ITiCSE '04: Proceedings of the 9th annual SIGCSE conference on Innovation and technology in computer science education"
+  pages: "pp. 270-270"
+
+- authors: "Pardha S. Pyla and Manuel A. Pérez-Quiñones and James D. Arthur and H. Rex Hartson"
+  year: 2004
+  url: "http://dx.doi.org/10.1109/FIE.2004.1408713"
+  title: "What We Should Teach, but Don't: Proposal for a Cross Pollinated HCI-SE Curriculum"
+  proceeding: "Proceedings of ASEE/IEEE Frontiers in Education Conference"
+  pages: "S1H17-S1H22"
+
+- authors: "Peter DePasquale and John A. N. Lee and Manuel A. Pérez-Quiñones"
+  year: 2004
+  url: "http://doi.acm.org/10.1145/971300.971392"
+  title: "Evaluation of subsetting programming language elements in a novice's programming environment"
+  proceeding: "SIGCSE '04: Proceedings of the 35th SIGCSE technical symposium on Computer science education"
+  pages: "pp. 260-264"
+
+- authors: "Saverio Perugini and Kathleen McDevitt and Ryan Richardson and Manuel A. Pérez-Quiñones and Rao Shen and Naren Ramakrishnan and Chris Williams and Edward A. Fox"
+  year: 2004
+  url: "http://doi.acm.org/10.1145/996350.996424"
+  title: "Enhancing usability in CITIDEL: multimodal, multilingual, and interactive visualization interfaces"
+  proceeding: "JCDL '04: Proceedings of the 4th ACM/IEEE-CS joint conference on Digital libraries"
+  pages: "pp. 315-324"
+
+- authors: "Tracy L. Lewis and Manuel A. Pérez-Quiñones and Mary Beth Rosson"
+  year: 2004
+  url: "http://dx.doi.org/10.1109/FIE.2004.1408791"
+  title: "A Comprehensive Analysis Of Object-Oriented Design: Towards A Measure Of Assessing Design Ability"
+  proceeding: "Proceedings of ASEE/IEEE Frontiers in Education Conference"
+  pages: "S3H16-S3H21"
+
+- authors: "Tracy L. Lewis and Mary Beth Rosson and Manuel A. Pérez-Quiñones"
+  year: 2004
+  url: "http://doi.acm.org/10.1145/971300.971405"
+  title: "What do the experts say?: teaching introductory design from an expert's perspective"
+  proceeding: "SIGCSE '04: Proceedings of the 35th SIGCSE technical symposium on Computer science education"
+  pages: "pp. 296-300"
+
+- authors: "C. Chhatpar and Manuel A. Pérez-Quiñones"
+  year: 2003
+  title: "Dialogue Mobility Across Devices"
+  proceeding: "Proceedings of the ACM Southeast Conference (ACMSE 2003)"
+
+- authors: "I. Vargas and J. Borges and Manuel A. Pérez-Quiñones"
+  year: 2003
+  url: "http://www.worldcat.org/title/usability-study-of-an-object-based-undo-facility/  oclc/59133893"
+  title: "Usability Study of an Object-Based Undo Facility"
+  proceeding: "Proceedings of the Tenth International Conference on Human-Computer Interaction"
+  pages: "pp. 589-593"
+
+- authors: "J.A.N. Lee and J. Impagliazzo and L.N. Cassel and E.A. Fox and C.L. Giles and D. Knox and Manuel A. Pérez-Quiñones"
+  year: 2003
+  url: "http://link.springer.com/chapter/10.1007/978-0-387-35700-3_7"
+  title: "Enhancing distance learning using quality digital libraries and CITIDEL"
+  proceeding: "Quality Education at a Distance - IFIP Distance Learning Conference"
+  pages: "pp. 61-71"
+
+- authors: "Manuel A. Pérez-Quiñones and Robert Capra and Zhiyan Shao"
+  year: 2003
+  url: "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.98.9771"
+  title: "The Ears Have It: A Task by Information Structure Taxonomy for Voice Access to Web Pages"
+  proceeding: "Proceedings Human-Comptuer Interaction Interact '03"
+  pages: "pp. 856-859"
+
+- authors: "Robert Capra and Michael Narayan and Saverio Perugini and Naren Ramakrishnan and Manuel A. Pérez-Quiñones"
+  year: 2003
+  url: "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.119.1292"
+  title: "The Staging Transformation Approach to Mixing Initiative"
+  proceeding: "18th International Joint Conference on Artificial Intelligence, Workshop on Mixed-Initiative Intelligent Systems"
+  pages: "pp. 23-29"
+
+- authors: "Zhiyan Shao and Robert Capra and Manuel A. Pérez-Quiñones"
+  year: 2003
+  url: "http://dx.doi.org/10.1109/TAI.2003.1250198"
+  title: "Transcoding HTML to VoiceXML Using Annotations"
+  proceeding: "Proceedings Fifteenth International Conference on Tools with Artificial Intelligence (IEEE ICTAI 03)"
+  pages: "pp. 249-258"
+
+- authors: "M.F. Ali and Manuel A. Pérez-Quiñones and M. Abrams and E. Shell"
+  year: 2002
+  url:  "Multi-Platform User Interfaces with UIML"
+  proceeding: "Proceedings of Computer-Assisted Desing of User Interfaces (CADUI) 2002"
+  pages: "pp. 255-266"
+
+- authors: "Mir Farooq Ali and Manuel A. Pérez-Quiñones"
+  year: 2002
+  url: "http://doi.acm.org/10.1145/506443.506538"
+  title: "Using task models to generate multi-platform user interfaces while ensuring usability"
+  proceeding: "CHI '02 extended abstracts on Human factors in computing systems"
+  pages: "pp. 670-671"
+
+- authors: "Naren Ramakrishnan and Robert Capra, III and Manuel A. Pérez-Quiñones"
+  year: 2002
+  url: "http://doi.acm.org/10.1145/503032.503042"
+  title: "Mixed-initiative interaction = mixed computation"
+  proceeding: "PEPM '02: Proceedings of the 2002 ACM SIGPLAN workshop on Partial evaluation and semantics-based program manipulation"
+  pages: "pp. 119-130"
+
+- authors: "J.X. Elías-Colón and Manuel A. Pérez-Quiñones and R. Ferreira"
+  year: 2001
+  url: "http://pro.sagepub.com/content/45/6/657"
+  title: "Effects of Face-Threatening Acts in Human-Computer Dialogues"
+  proceeding: "Proceedings of the 42nd Human-Factors and Ergonomics Society (HFES)"
+  pages: "pp. 657-661"
+
+- authors: "Robert Capra and Manuel A. Pérez-Quiñones and Naren Ramakrishnan"
+  year: 2001
+  url: "http://doi.acm.org/10.1145/971478.971517"
+  title: "WebContext: remote access to shared context"
+  proceeding: "Proceedings of the 2001 workshop on Perceptive user interfaces"
+  pages: "pp. 1-9"
+
+- authors: "A.A. Irizarry-Rivera and Manuel A. Pérez-Quiñones and R.P. Darken"
+  year: 1999
+  url: "http://dx.doi.org/10.1109/FIE.1999.840455"
+  title: "Using Virtual Worlds to Explore Electric Power Grids and Plants"
+  proceeding: "Proceedings of 29th ASEE/IEEE Conference Frontiers in Education"
+  pages: "pp. 13d23-13d27"
+
+- authors: "J.H. Trespalacios and Manuel A. Pérez-Quiñones"
+  year: 1999
+  url: "http://dx.doi.org/10.1109/FIE.1999.841682"
+  title: "Teaching Functions to Pre-Calculus Students: An Electronic-Workbook"
+  proceeding: "Proceedings of 29th ASEE/IEEE Conference Frontiers in Education"
+  pages: "pp. 12d519-12d524"
+
+- authors: "M. Vélez-Reyes and Manuel A. Pérez-Quiñones and J.L. Cruz-Rivera"
+  year: 1999
+  url: "http://dx.doi.org/10.1109/FIE.1999.840436"
+  title: "The Industrial Affiliates Program at the University of Puerto Rico Mayagüez"
+  proceeding: "Proceedings of 29th ASEE/IEEE Conference Frontiers in Education"
+  pages: "pp. 13c513-13c518"
+
+- authors: "Manuel A. Pérez-Quiñones"
+  year: 1999
+  url: "http://dx.doi.org/10.1109/FIE.1999.841616"
+  title: "Empowering minorities to help minorities: the Puerto Rico Online Educational Software Initiative"
+  proceeding: "Proceedings of 29th ASEE/IEEE Conference Frontiers in Education"
+  pages: "pp. 12B917-12B919"
+
+- authors: "Manuel A. Pérez-Quiñones and J.L. Cruz-Rivera"
+  year: 1999
+  url: "http://dx.doi.org/10.1109/FIE.1999.841649"
+  title: "Integrated Development Environment for a Microcontroller Systems Laboratory"
+  proceeding: "Proceedings of 29th ASEE/IEEE Conference Frontiers in Education"
+  pages: "pp. 12C611-12C616"
+
+- authors: "D. Novick and Manuel A. Pérez-Quiñones"
+  year: 1998
+  title: "Cooperating with computers: Abstracting from action to situated acts"
+  proceeding: "Proceedings of the Ninth European Conference on Cognitive Ergonomics (ECCE-9)"
+  pages: "pp. 49-54"
+
+- authors: "Manuel A. Pérez-Quiñones"
+  year: 1998
+  url: "http://dx.doi.org/10.1109/FIE.1998.736853"
+  title: "Teaching history of programming languages to undergraduate students"
+  proceeding: "FIE '98: Proceedings of the 28th Annual Frontiers in Education"
+  pages: "pp. 301-306"
+
+- authors: "Stephanie S. Everett and Kenneth Wauchope and Manuel A. Pérez-Quiñones"
+  year: 1998
+  title: "Natural Language Interfaces to VR Systems: Experiences, Observations and Lessons Learned"
+  proceeding: "Proceedings of the 4th International Conference on Virtual Systems and Multimedia (VSMM98)"
+  pages: "pp. 469-474"
+
+- authors: "José A. Borges and Manuel A. Pérez-Quiñones and Néstor J. Rodríguez"
+  year: 1997
+  url: "http://doi.acm.org/10.1145/1120212.1120271"
+  title: "HCI education and research at the University of Puerto Rico-Mayagüez"
+  proceeding: "CHI '97: CHI '97 extended abstracts on Human factors in computing systems"
+  pages: "pp. 89-90"
+
+- authors: "Manuel A. Pérez-Quiñones and J.L. Sibert"
+  year: 1997
+  url: "Dialogue Units: A Software Architecture for Programming Human-Computer Dialogues"
+  proceeding: "Proceedings of the Seventh International Conference on Human-Computer Interaction 1997"
+  pages: "pp. 355-358"
+
+- authors: "Manuel A. Pérez-Quiñones and José L. Cruz-Rivera"
+  year: 1997
+  url: "http://dx.doi.org/10.1109/FIE.1997.635985"
+  title: "Experiences in Conducting Web-based, Paperless Undergraduate Software and Hardware Design Courses"
+  proceeding: "Proceedings of the ASEE/IEEE Frontiers in Education Conference"
+
+- authors: "Pérez-Quiñones, Manuel A."
+  year: 1997
+  title: "Interpreter-Based Approach to the Programming Language Course"
+  proceeding: "ADMI '97 - Increasing Diversity in Research and Education"
+
+- authors: "Stephanie S. Everett and Kenneth Wauchope and Manuel A. Pérez-Quiñones"
+  year: 1997
+  title: "A spoken language interface to a virtual reality system (Video)"
+  proceeding: "Proceedings of the fifth conference on Applied natural language processing"
+  pages: "pp. 36-37"
+
+- authors: "Manuel A. Pérez-Quiñones and John L. Sibert"
+  year: 1996
+  url: "http://doi.acm.org/10.1145/238386.238535"
+  title: "A collaborative model of feedback in human-computer interaction"
+  proceeding: "CHI '96: Proceedings of the SIGCHI conference on Human factors in computing systems"
+  pages: "pp. 316-323"
+
+- authors: "Michael B. Feldman and Charles W. Kann and Arthur Vargas Lopes and Manuel A. Pérez-Quiñones"
+  year: 1995
+  url: "http://doi.acm.org/10.1145/376503.376719"
+  title: "GW-Ada/Ed: free Ada 83 development environments for IBM PC-compatible and Apple Macintosh computers"
+  proceeding: "TRI-Ada '95: Proceedings of the conference on TRI-Ada '95"
+  pages: "pp. 446-454"
+
+- authors: "James A. Ballas and Constance L. Heitmeyer and Manuel A. Pérez-Quiñones"
+  year: 1992
+  url: "http://doi.acm.org/10.1145/142750.142770"
+  title: "Evaluating two aspects of direct manipulation in advanced cockpits"
+  proceeding: "CHI '92: Proceedings of the SIGCHI conference on Human factors in computing systems"
+  pages: "pp. 127-134"
+
+- authors: "J.A. Ballas and C.L. Heitmeyer and M.A. Pérez"
+  year: 1991
+  title: "Interface Styles for Adaptive Automation"
+  proceeding: "Proceedings of the Sixth International Symposium on Aviation Psychology"
+  pages: "pp. 108-113"
+
+- authors: "J.A. Ballas and C.L. Heitmeyer and Manuel A. Pérez-Quiñones"
+  year: 1991
+  url: "http://arc.aiaa.org/doi/abs/10.2514/6.1991-3799"
+  title: "Interface styles for the intelligent cockpit: Factors influencing automation deficit"
+  proceeding: "Proceedings of the 8th AIAA Computers in Aerospace Conference"
+  pages: "pp. 651-667"
+
+- authors: "Michael B. Feldman and Arthur Vargas Lopes and Manuel A. Pérez-Quiñones"
+  year: 1990
+  url: "http://doi.acm.org/10.1145/323410.323453"
+  title: "Small-Ada: personal computer courseware for studying concurrent programming"
+  proceeding: "Proceedings of the twenty-first SIGCSE technical symposium on Computer science education"
+  pages: "pp. 206-211"

@@ -1,0 +1,3 @@
+cd public_html
+put -p -r *
+bye

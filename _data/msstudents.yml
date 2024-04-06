@@ -1,0 +1,148 @@
+- name: William Ellis
+  title: Information Scraps in the Smartphone Era
+  date: 2016-01-16
+  etd: http://hdl.handle.net/10919/81135
+  degree: MS thesis
+  department: "Department of Computer Science, Virginia Tech"
+  employment: "WillowTree Apps, Charlottesville, VA"
+  area: [hci]
+
+- name: Priyanka Mohan
+  title: Student perceptions of various hint features while solving coding exercises
+  date: 2015-09-23
+  etd: http://hdl.handle.net/10919/64777
+  degree: MS thesis
+  cochair: Dr. Stephen Edwards
+  department: "Department of Computer Science, Virginia Tech"
+  area: [cseducation]
+
+- name: Sheriff Olayinka Jolaoso
+  title: "TaskAmbient: A Study in Personal Task Management Visualization"
+  date: 2015-05-28
+  etd: http://hdl.handle.net/10919/52782
+  degree: MS thesis
+  department: "Department of Computer Science, Virginia Tech"
+  employment: Associate User Experience Designer at Appfolio
+  area: [hci]
+
+- name: Ankit Ahuja
+  title: "Contextinator: Recreating the context lost amid information fragmentation on the web"
+  date: 2013-06-01
+  etd: http://hdl.handle.net/10919/23120
+  degree: MS Thesis
+  department: "Department of Computer Science, Virginia Tech"
+  employment: Software Engineer at LinkedIn
+  area: [hci]
+
+- name: Daniel Patrick Shanahan
+  title: Intentional Information Fragmentation in Email Management
+  date: 2012-08-29
+  degree: MS Thesis
+  department: "Department of Computer Science, Virginia Tech"
+  etd: etd-09162012-153029
+  employment: Software Engineer at Qualcom
+  area: [hci]
+
+- name: Edgardo Luis Vega
+  title: "Communities of Tweeple: How Communities Engage with Microblogging When Co-located"
+  date: 2011-04-22
+  degree: MS Thesis
+  etd: http://handle/10919/32605
+  department: "Department of Computer Science, Virginia Tech"
+  etd: etd-05112011-222646
+  employment: Senior Software Engineer at Next Century Corporation
+  area: [hci]
+
+- name: James Arthur Goodwin Henry
+  title: "Subiquitous: Supporting Ubiquitous Computing"
+  date: 2010-04-29
+  degree: MS Thesis
+  department: "Department of Computer Science, Virginia Tech"
+  etd: http://hdl.handle.net/10919/33009
+  area: [hci]
+
+- name: Sameer Ahuja
+  title: "A Tale of Two Sites: An Explorative Study of the Design and Evaluation of Social Network Sites"
+  date: 2009-07-17
+  degree: MS Thesis
+  department: "Department of Computer Science, Virginia Tech"
+  etd: http://hdl.handle.net/10919/34244
+  employment: Software Engineer at Google
+  area: [hci]
+
+- name: Candida Tauro
+  title: "A Usability Evaluation and Content Analysis of Vizblog: an Online Conversation Discovery Tool"
+  date: 2008-04-23
+  degree: MS Thesis
+  department: "Department of Computer Science, Virginia Tech"
+  etd: http://hdl.handle.net/10919/32383
+  area: [hci]
+
+- name: Stelios Lambros
+  title: Investigating the Applicability of Information Foraging Theory to Mobile Web Browsing
+  date: 2005-05-27
+  degree: MS Thesis
+  department: "Department of Computer Science, Virginia Tech"
+  etd: http://hdl.handle.net/10919/33357
+  area: [hci]
+
+- name: Yogita Bhardwaj
+  title: Reverse Engineering End-user Developed Web Applications into a Model-based Framework
+  date: 2005-05-09
+  degree: MS Thesis
+  department: "Department of Computer Science, Virginia Tech"
+  etd: http://hdl.handle.net/10919/33150
+  employment: Software Engineer at Microsoft
+  area: [hci]
+
+- name: Scott Alexander Turner
+  title: "minimUML: A Minimalist Approach to UML Diagraming for Early Computer Science Education"
+  date: 2005-02-04
+  degree: MS Thesis
+  department: "Department of Computer Science, Virginia Tech"
+  etd: http://hdl.handle.net/10919/33030
+  employment: "Assistant Professor, Department of Mathematics, Statistics & Computer Science, University of Wisconsin, Stout"
+  area: [cseducation]
+
+- name: Ravikiran Vatrapu
+  title: "Culture and International Usability Testing:The Effects of Culture in Interviews"
+  date: 2002-08-06
+  degree: MS Thesis
+  department: "Department of Computer Science, Virginia Tech"
+  etd: http://hdl.handle.net/10919/35039
+  employment: "Professor mso, Dept. of Information Technology Management (ITM), Copenhagen Business School, Denmark"
+  area: [hci]
+
+- name: Raquel Ferreira
+  title: "Culture and E-Commerce: Culture Based Preferences for Interface Information Design"
+  date: 2002-07-12
+  degree: MS Thesis
+  cochair: Tonya L. Smith-Jackson
+  etd: http://hdl.handle.net/10919/34417
+  department: "Department of Industrial and Systems Engineering, Virginia Tech"
+  employment: IBM
+  area: [hci]
+
+- name: Jaime Elias Colón
+  degree: MS Thesis
+  department: "Department of Electrical and Computer Engineering, University of Puerto Rico, Mayagüez"
+  date: May 2000
+  area: [hci]
+
+- name: Miguel Velez-Rubio
+  degree: MS Thesis
+  department: "Department of Electrical and Computer Engineering, University of Puerto Rico, Mayagüez"
+  date: May 2000
+  area: [hci]
+
+- name: Anibal Morales-Morell
+  degree: MS Thesis
+  department: "Department of Electrical and Computer Engineering, University of Puerto Rico, Mayagüez"
+  date: Fall 2000
+  area: [hci]
+
+- name: Jesús Trespalacios
+  degree: MS Thesis
+  department: "Department of Electrical and Computer Engineering, University of Puerto Rico, Mayagüez"
+  date: May 1999
+  area: [cseducation]

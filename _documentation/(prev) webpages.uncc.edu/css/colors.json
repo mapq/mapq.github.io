@@ -1,0 +1,20 @@
+{
+	"vt":
+	{
+		"dark1": "#980000",
+		"dark2": "#7a0000",
+		"dark3": "#660000",
+		"highlight": "#ff6600",
+		"gray": "#e5e5e5",
+		"white": "#ffffff"
+		},
+	"uncc":
+	{
+		"dark1": "#28592B",
+		"dark2": "#163016",
+		"dark3": "#006600",
+		"highlight": "#887138",
+		"gray": "#e5e5e5",
+		"white": "#ffffff"
+	}
+}

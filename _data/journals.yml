@@ -1,0 +1,124 @@
+- authors: C. Evia, M. R. Sharp and M. A. Pérez-Quiñones.
+  year: 2015
+  url: "http://works.bepress.com/matthew_sharp/3/"
+  title: "Teaching Structured Authoring and DITA Through Rhetorical and Computational Thinking"
+  item: "IEEE Transactions on Professional Communication"
+  extra: "Vol. 58 Iss. 3 (2015) p. 328 - 343 ISSN: 0361-1434. "
+
+- authors: "Benjamin V. Hanrahan, Manuel A. Pérez-Quiñones, David Martin"
+  year: 2014
+  url: "http://dx.doi.org/10.1093/iwc/iwu048" 
+  title: "Attending to Email"
+  item: "Interacting with Computers"
+  extra: "20 pps"
+
+- authors: "Andrea Kavanaugh, Ankit Ahuja, Samah Gad, Sloane Neidig, Manuel A. Pérez-Quiñones, Naren Ramakrishnan, John Tedesco"
+  year: 2014
+  url: "http://www.sciencedirect.com/science/article/pii/S0740624X13001251 " 
+  title: "(Hyper) local news aggregation: Designing for social affordances"
+  item: "Government Information Quarterly, Special Issue 2012 Digital Government Society Conference"
+  extra: "31(1), pp. 30-41"
+
+- authors: "Kibum Kim, Scott A. Turner, Manuel A. Pérez-Quiñones"
+  year: 2009
+  url: "http://dx.doi.org/10.1007/s10639-009-9086-z" 
+  title: "Requirements for electronic note taking systems: A field study of note taking in university classrooms"
+  item: "Education and Information Technologies"
+  extra: "14(3), pp. 255-283"
+
+- authors: "Cyril Montabert, Scott D. McCrickard, Woodrow W. Winchester, Manuel A. Pérez-Quiñones"
+  year: 2009
+  url: "http://dx.doi.org/10.1016/j.intcom.2009.06.003" 
+  title: "An integrative approach to requirements analysis: How task models support requirements reuse in a user-centric design framework"
+  item: "Interacting with Computers"
+  extra: "21(4), pp. 304-315"
+
+- authors: "Saverio Perugini, Mary E. Pinney, Naren Ramakrishnan, Manuel A. Pérez-Quiñones, Mary Beth Rosson"
+  year: 2009
+  url: "https://journals.tdl.org/jodi/index.php/jodi/article/view/205/206" 
+  title: "Exploring Out-of-turn Interactions with Web Hierarchies"
+  item: "Journal of Digital Information"
+  extra: "10(4), 18"
+
+- authors: "Deborah Barreau, Robert Capra, Susan Dumais, William Jones, Manuel A. Pérez-Quiñones"
+  year: 2008
+  url: "http://doi.acm.org/10.1145/1402256.1402257" 
+  title: "Introduction to keeping, refinding and sharing personal information"
+  item: "ACM Transactions on Information Systems"
+  extra: "26(4), pp. 1-3"
+
+- authors: "Andrea Kavanaugh, Manuel A. Pérez-Quiñones, B. Joon  Kim, Joseph Schmitz"
+  year: 2008
+  url: "http://www.tandfonline.com/doi/abs/10.1080/.VBQxeEvAquc" 
+  title: "Net Gains in Political Participation: Secondary effects of the Internet on community"
+  item: "Information, Communication &amp; Society"
+  extra: "11(7), pp. 933-963"
+
+- authors: "Naren Ramakrishnan, Manuel A. Pérez-Quiñones, Atul Shenoy"
+  year: 2008
+  url: "http://dx.doi.org/10.1504/IJWET.2008.019538" 
+  title: "Compositional specification and realisation of mixed-initiative web dialogs"
+  item: "International Journal of Web Engineering and Technology, Special Issue Special Issue on User Interface Description Languages"
+  extra: "4(3), pp. 336-366"
+
+- authors: "Stephen H. Edwards, Manuel A. Pérez-Quiñones"
+  year: 2007
+  url: "http://dl.acm.org/citation.cfm?id=1181855" 
+  title: "Experiences Using Test-Driven Development With An Automated Grader"
+  item: "The Journal of Computing Sciences in Colleges"
+  extra: "22(3), pp. 44-50"
+
+- authors: "Scott A. Turner, Manuel A. Pérez-Quiñones, Stephen H. Edwards"
+  year: 2007
+  url: "http://dl.acm.org/citation.cfm?id=1181849.1181890" 
+  title: "Effect of Interface Style in Peer Review Comments for UML Designs"
+  item: "The Journal of Computing Sciences in Colleges"
+  extra: "22(3), pp. 214-220"
+
+- authors: "Mary Czerwinski, Doug Gage, Jim Gemmell, Tiziana Catarci, Catherine C. Marshall, Manuel A. Pérez-Quiñones, Meredith M. Skeels"
+  year: 2006
+  url: "http://doi.acm.org/10.1145/1107458.1107489" 
+  title: "Digital Memories in an Era of Ubiquitous Computing and Abundant Storage"
+  item: "Communications of the ACM: Special issue on Personal Information Management"
+  extra: "49(1), pp. 44-50"
+
+- authors: "Hussein Vastani, Stephen H. Edwards, Manuel A. Pérez-Quiñones"
+  year: 2006
+  title: "Supporting On-line Direct Markup and Evaluation of Students' Projects"
+  item: "Computers in Education Journal"
+  extra: "16(3), pp. 88-99"
+
+- authors: "Ravikiran Vatrapu, Manuel A. Pérez-Quiñones"
+  year: 2006
+  url: "http://uxpajournal.org/culture-and-usability-evaluation-the-effects-of-culture-in-structured-interviews/" 
+  title: "Culture and International Usability Testing: The Effects of Culture in Structured Interviews"
+  item: "Journal of Usability Studies"
+  extra: "1(4), pp. 156-170"
+
+- authors: "Robert Capra, Manuel A. Pérez-Quiñones"
+  year: 2005
+  url: "http://dx.doi.org/10.1109/MC.2005.355" 
+  title: "Using Web Search Engines to Find and Refind Information"
+  item: "Computer"
+  extra: "38(10), pp. 36-42"
+
+- authors: "Scott A. Turner, Manuel A. Pérez-Quiñones, Stephen H. Edwards"
+  year: 2005
+  url: "http://doi.acm.org/10.1145/1186639.1186640" 
+  title: "minimUML: A minimalist approach to UML diagramming for early computer science education"
+  item: "ACM Journal on Educational Resources in Computing (JERIC)"
+  extra: "5(4), 1"
+
+- authors: "H.R. Hartson, P. Shivakumar, Manuel A. Pérez-Quiñones"
+  year: 2004
+  url: "http://link.springer.com/article/10.1007/s00799-003-0074-4" 
+  title: "Usability inspection of digital libraries: a case study"
+  item: "International Journal on Digital Libraries"
+  extra: "4(2), pp. 108-123"
+
+- authors: "Stephanie S. Everett, Kenneth Wauchope, Manuel A. Pérez-Quiñones"
+  year: 1999
+  url: "http://link.springer.com/article/10.1007%2FBF01408589" 
+  title: "Creating Natural Language Interfaces to VR Systems"
+  item: "Virtual Reality"
+  extra: "4(1), pp. 103-113"

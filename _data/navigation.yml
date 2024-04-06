@@ -1,0 +1,21 @@
+- name: About Me
+  link: /about.html
+
+- name: Publications
+  link: /acmpubs.html
+
+- name: Grants
+  link: /grants.html
+
+- name: Other Media
+  link: /othermedia.html
+
+- name: Students
+  link: /students.html
+
+- name: Gallery
+  link: /gallery.html
+
+- name: Contact Me
+  link: /contactme.html
+

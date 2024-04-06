@@ -1,0 +1,48 @@
+# destination: /Users/mapq/Development/webpages/_site
+# Pass the destination from the shell command so that
+# we can conditionally point to the right directory
+# depending on which computer we are using
+# --destination ~/Development/webpages/_site
+
+
+title: Dr. Manuel A. Pérez Quiñones
+email: perez.quinones@charlotte.edu
+
+baseurl: "/mperez19" # the subpath of your site, e.g. /blog
+url: "https://webpages.charlotte.edu" 
+
+# Handling Reading
+safe                : false
+include             : [".htaccess"]
+exclude             : ["bin", "upload.command", "_documentation"]
+keep_files          : [".git", ".svn"]
+encoding            : "utf-8"
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md,txt"
+strict_front_matter : false
+
+gems: ['jekyll/scholar']
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  group_by: none
+  group_order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: ""
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: false
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"

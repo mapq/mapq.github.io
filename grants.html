@@ -1,0 +1,18 @@
+---
+layout: default
+title: Grants
+---
+<div class="row">
+  <div class="col">
+
+    <h3>Grants</h3>
+
+	<p>Filter by research area: <label for="HCI"><input type="checkbox" id="HCI" checked onclick="$('.show-hci').toggle();"> Human-computer interaction (HCI)&nbsp;&nbsp;&nbsp;</label>
+	<label for="cseducation"><input type="checkbox" id="cseducation" checked onclick="$('.show-cseducation').toggle();"> CS Education&nbsp;&nbsp;&nbsp;</label>
+	<label for="students"><input type="checkbox" id="students" checked onclick="$('.show-students').toggle();"> Student support&nbsp;&nbsp;&nbsp;</label></p>
+
+
+    {% include grants.html %}
+
+  </div> <!-- col -->
+</div> <!-- row -->

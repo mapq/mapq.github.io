@@ -1,0 +1,14 @@
+<div class="show-chapters">
+	<a name="chapters"></a><h4>Book chapters</h4>
+	<ol>
+	{% for pub in site.data.bookchapters %}
+        <li>{{pub.authors}}. ({{pub.year}}) {{pub.title}}, In <em>{{pub.book}}</em>. Eds. {{pub.editors}}.
+        {% if pub.date %}{{pub.date}}.{% endif %}
+        {% if pub.pages %}{{pub.pages}}.{% endif %}
+        {% if pub.publisher %}{{pub.publisher}}.{% endif %}
+    	{% if pub.url %}<a href="{{pub.url}}">{{pub.url}}</a>{% endif %}
+        </li>
+	{% endfor %}
+    </ol>
+</div> <!-- book chapters -->
+

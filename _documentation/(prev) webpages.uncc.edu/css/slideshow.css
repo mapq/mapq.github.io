@@ -1,0 +1,162 @@
+/* @override http://localhost/~manuel/courses/src/css/slideshow.css
+	http://localhost/~mapq/courses/src/css/slideshow.css */
+
+/* firebrick becase unirel #660000 */
+body, p, a, ul, li, table, td {
+	font-family: verdana, arial, 'sans serif';
+	font-size: 18pt;	/*100%;*/
+}
+body { background-color: whitesmoke; }
+
+h1,h3,h4,hr { color: firebrick; }		/* #660000;*/
+
+td, th { vertical-align: top; }
+img.image { text-align: center; }
+a:link {color: firebrick;}	/*#660000*/
+a:visited {color: firebrick;}	/*#660000*/
+a:active {color: blue;}
+a:hover {color: white; background-color: firebrick;}	/*#660000*/
+
+#header {
+	color: white;
+	background-color: firebrick;
+	width: 98%;
+	border: 1px outset lightgray;
+}
+#header h2 {
+	margin: 5px;
+}
+#slide {
+	color: black;
+	background-color: white;
+
+	padding-left: 5px;
+	border-width:1px;
+	border-style:outset;
+	border-color: lightgray;
+	width: 98%;
+}
+
+/* Outer level of list items for the slide */
+#slide ul li {
+	margin-top: 0.7em;
+}
+#slide ol li {
+	margin-top: 0.7em;
+}
+
+/* Level 2 */
+#slide ul li li {
+	margin-top: 0.4em;
+}
+
+#navigation div.grid_half p {
+	margin: 5px;
+}
+
+div#navigation.grid_20 {
+	font-size: 50%
+}
+#leftcol {
+	float: left;
+	width: 49%;
+}
+#rightcol {
+	float: right;
+	width: 49%;
+}
+
+#navigation {
+	background-color: firebrick;	/*#660000*/	/*#FC6;*/
+	color: white;
+	width: 98%;
+	float: bottom;
+	position: fixed;
+	bottom: 5px;
+}
+#navigation * a {
+	color: white;
+	background-color: firebrick;
+	font-size: inherit;
+}
+#navigation * p {
+	color: white;
+	background-color: firebrick;
+	font-size: inherit;
+}
+#navigation * a:link {
+	text-decoration: none;
+	font-size: inherit;
+}
+/*#navigation * a:hover {
+	text-decoration: none;
+	color: firebrick;
+	background-color: white;
+	font-size: inherit;
+}
+*/
+#navigation * a:visited {color: white;}
+
+/*a.SlideNavigation {color: maroon; text-decoration: none}
+*/
+#slide code, tt {
+	font-family: courier new,courier,monospace;
+	font-weight: bold;
+	word-wrap: break-word;
+}
+#slide pre {
+	font-family: courier news,courier,monospace;
+	font-weight: bold;
+	background: #EC8;
+	padding: 6px;
+	margin-left: 1em;
+	margin-right: 1em;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+}
+
+
+#slide red { color: red; }
+#slide blue { color: blue; }
+#slide green { color: green; }
+#slide purple { color: purple; }
+
+/* Tags used for the index: definitions and reference */
+#slide definition { color: maroon; font-weight: bold; }
+#slide reference
+{
+	font-family: courier news,courier,monospace;
+	color: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: inherit;
+}
+
+/* Other tags that mark sections of the document */
+#slide span.question { color: maroon; font-style: italic; }
+#slide question { color: maroon; font-style: italic; }
+
+#slide hilight {
+	background-color: yellow;
+	color: black;
+	font-weight: inherit;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+}
+#slide span.update {
+	background-color: silver;
+	color: maroon;
+	font-weight: bold;
+}
+#slide update {
+	background-color: silver;
+	color: maroon;
+	font-weight: bold;
+}
+

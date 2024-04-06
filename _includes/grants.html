@@ -1,0 +1,12 @@
+
+<ul>
+  {% for grant in site.data.grants %}
+	<li class="show-{{grant.area}}"><em>{{grant.title}}</em>, {{grant.agency}}.
+	PI: {{grant.pi}},
+	{%if grant.copi %}Co-PI: {{grant.copi}},{% endif %}
+	{% if grant.date %}Dates of performance: {{grant.date}},{% endif %}
+	{% if grant.amount %}Amount: {{grant.amount}}, {% endif %}
+	Awardee organization: {{grant.organization}}.
+	</li>
+  {% endfor %}
+</ul> <!-- grants -->

@@ -1,0 +1,12 @@
+<div class="show-journals">
+    <a name="journals"></a><h4>Journals</h4>
+    <ol>
+
+	{% for pub in site.data.journals %}
+        <li>{{pub.authors}}. <a href="{{pub.url}}">{{pub.title}}</a>,
+        	<em>{{pub.item}}</em>, {{pub.extra}}. 
+        </li>
+	{% endfor %}
+    </ol>
+</div> <!-- journals -->
+
