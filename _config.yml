@@ -8,8 +8,8 @@
 title: Dr. Manuel A. Pérez Quiñones
 email: perez.quinones@charlotte.edu
 
-baseurl: "/mperez19" # the subpath of your site, e.g. /blog
-url: "https://webpages.charlotte.edu" 
+#baseurl: "/mperez19" # the subpath of your site, e.g. /blog
+url: "https://mapq.github.io" 
 
 # Handling Reading
 safe                : false
