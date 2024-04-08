@@ -11,4 +11,4 @@
 #   jekyll clean
 # fi
 
-jekyll serve --destination ~/Development/webpages/_site --config _config.yml
+jekyll serve --destination ~/Development/github.io/_site --config _config.yml

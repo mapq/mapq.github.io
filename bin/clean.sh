@@ -6,4 +6,4 @@
 
 
 ## 
-jekyll clean --destination ~/Development/webpages/_site --config _config.yml --profile 
+jekyll clean --destination ~/Development/github.io/_site --config _config.yml --profile 

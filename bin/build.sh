@@ -9,4 +9,4 @@
 
 
 ## livereload as of 3.7 jekyll
-jekyll build --destination ~/Development/webpages/_site --config _config.yml --profile 
+jekyll build --destination ~/Development/github.io/_site --config _config.yml --profile 
