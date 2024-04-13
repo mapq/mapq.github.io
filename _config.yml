@@ -1,14 +1,13 @@
-# destination: /Users/mapq/Development/webpages/_site
+# config for personal page on github
+# destination: /Users/mapq/Development/mapq.github.io/_site
 # Pass the destination from the shell command so that
 # we can conditionally point to the right directory
 # depending on which computer we are using
-# --destination ~/Development/webpages/_site
+# --destination ~/Development/mapq.github.io/_site
 
 
 title: Dr. Manuel A. Pérez Quiñones
 email: perez.quinones@charlotte.edu
-
-#baseurl: "/mperez19" # the subpath of your site, e.g. /blog
 url: "https://mapq.github.io" 
 
 # Handling Reading

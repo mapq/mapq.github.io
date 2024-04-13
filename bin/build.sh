@@ -9,4 +9,4 @@
 
 
 ## livereload as of 3.7 jekyll
-jekyll build --destination ~/Development/github.io/_site --config _config.yml --profile 
+bundle exec jekyll build --destination ~/Development/mapq.github.io/_site --config _config.yml --profile 
