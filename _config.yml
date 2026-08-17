@@ -13,7 +13,7 @@ url: "https://mapq.github.io"
 # Handling Reading
 safe                : false
 include             : [".htaccess"]
-exclude             : ["bin", "upload.command", "_documentation"]
+exclude             : ["bin", "upload.command", "_documentation", "_updates"]
 keep_files          : [".git", ".svn"]
 encoding            : "utf-8"
 markdown_ext        : "markdown,mkdown,mkdn,mkd,md,txt"
